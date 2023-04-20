@@ -1,0 +1,5 @@
+﻿  ibooks.cpp
+C:\Users\frane\Desktop\cpp\ibooks\ibooks\ibooks.cpp(21,19): error C2661: "Borrow::Borrow": brak przeciążonej funkcji przyjmującej 2 argumenty
+C:\Users\frane\Desktop\cpp\ibooks\ibooks\ibooks.cpp(21,19): message : podczas próby dopasowania listy argumentów "(Book, Client)"
+C:\Users\frane\Desktop\cpp\ibooks\ibooks\ibooks.cpp(22,13): error C2039: „borrowBook”: nie jest składową elementu „Borrow”
+C:\Users\frane\Desktop\cpp\ibooks\ibooks\Borrow.h(5,7): message : zobacz deklarację „Borrow”
